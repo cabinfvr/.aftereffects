@@ -1,12 +1,12 @@
-:root {
-  --url: url('https://static.wikia.nocookie.net/silly-cats/images/9/9e/Gakster.png/revision/latest?cb=20220807183547');
-}
-
 .childWrapper-1j_1ub svg {
   display: none;
 }
 
 .childWrapper-1j_1ub {
-  background: var(--url) no-repeat center center fixed; 
+  background: url('https://static.wikia.nocookie.net/silly-cats/images/9/9e/Gakster.png/revision/latest?cb=20220807183547') no-repeat center center fixed; 
   background-size: cover;
+}
+
+.childWrapper-1j_1ub:hover {
+  color: white;
 }
