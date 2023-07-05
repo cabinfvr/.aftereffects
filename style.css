@@ -8,6 +8,18 @@
   border-radius: 5px;
 }
 
+.childWrapper-1j_1ub::before {
+  background: url('https://cdn.discordapp.com/attachments/1125923596188000256/1126264493232631838/download_1.jpg') no-repeat center center fixed; 
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.childWrapper-1j_1ub::after {
+  background: url('https://cdn.discordapp.com/attachments/1125923596188000256/1126264493232631838/download_1.jpg') no-repeat center center fixed; 
+  background-size: cover;
+  border-radius: 5px;
+}
+
 .childWrapper-1j_1ub:hover {
   color: white;
 }
